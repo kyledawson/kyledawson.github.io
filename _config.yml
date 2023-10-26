@@ -5,7 +5,7 @@ subtitle: Welcome to my Website
 email: drkylewdawson@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: /main # the subpath of your site, e.g. /blog
-url: https://kyledawson.me # the base hostname & protocol for your site
+url: kyledawson.me # the base hostname & protocol for your site
 author:
 street_address: 1205 Sheldon Cove, Ste 1A
 city: Austin
