@@ -4,8 +4,8 @@ title: Kyle Dawson, PhD
 subtitle: Welcome to my Website
 email: drkylewdawson@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/kyledawson" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: /main # the subpath of your site, e.g. /blog
+url: https://kyledawson.me # the base hostname & protocol for your site
 author:
 street_address: 1205 Sheldon Cove, Ste 1A
 city: Austin
@@ -24,13 +24,8 @@ tiles-count: 4
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/kyledawson
-  GitLab:
-  Google-Plus:
-  Instagram:
   LinkedIn: https://www.linkedin.com/in/kylewdawson
   x-twitter: https://x.com/drkyledawson
-  Facebook:
-  Slack:
 
 # build settings
 markdown: kramdown
