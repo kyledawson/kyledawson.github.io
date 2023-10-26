@@ -1,4 +1,4 @@
-## Modified by Kyle Dawson
+# Modified by Kyle Dawson
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
