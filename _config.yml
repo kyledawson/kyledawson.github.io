@@ -39,4 +39,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md
 
-destination: ./main
+destination: ./build
