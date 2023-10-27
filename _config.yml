@@ -25,7 +25,7 @@ tiles-count: 4
 socials:
   GitHub: https://github.com/kyledawson
   LinkedIn: https://www.linkedin.com/in/kylewdawson
-  x-twitter: https://x.com/drkyledawson
+  Twitter: https://x.com/drkyledawson
 
 # build settings
 markdown: kramdown
