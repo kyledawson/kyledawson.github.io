@@ -7,7 +7,7 @@ description: I am a Sr. Data Scientist with subject matter expertise <br />in At
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://kyledawson.github.io # the base hostname & protocol for your site
 author:
-street_address: 1205 Sheldon Cove, Ste 1A
+street_address: [1205 Sheldon Cove, Ste 1A](https://maps.app.goo.gl/LxqioWJMbstr8nxW9)
 city: Austin
 state: TX
 zip_code: 78753
