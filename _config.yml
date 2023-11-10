@@ -5,7 +5,7 @@ subtitle: Welcome to my Website
 email: drkylewdawson@gmail.com
 description: I am a Sr. Data Scientist with subject matter expertise <br />in Atmospheric Science and Sustainable Greenhouse Gas Emissions Monitoring
 baseurl: /public  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: http://kyledawson.github.io # the base hostname & protocol for your site
 author: Kyle W. Dawson
 street_address: 1205 Sheldon Cove, Ste 1A
 city: Austin
