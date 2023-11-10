@@ -78,7 +78,7 @@ nav-menu: true
 				</header>
 				-->
 				<p>Now, as I work towards more sustainable energy production, the emerging technology and regulatory markets along with the continuous learnings from the data boom, keep me on my toes both intellectually and from a regulatory perspective. However, despite my busy work life, I still find time to enjoy <a href="https://austinfoodbloggers.org/best-places-to-eat-in-austin/">Austin's food scene</a>, paddle boarding, decompressing at the gym, and cooking at home.</p>
-				<p>P.S. That's when I met <a href="https://thealyssaedwards.com/">Alyssa Edwards</a>!
+				<p>P.S. That's when I met <a href="https://thealyssaedwards.com/">Alyssa Edwards</a>!</p>
 				<p>Scroll down and fill out the form below if you'd like to get in touch!</p>
 				<!--
 				<ul class="actions">
