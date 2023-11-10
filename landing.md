@@ -42,11 +42,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<!--
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		-->
+		<!--<a href="generic.html" class="image">-->
+		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<!--</a>-->
 		<div class="content">
 			<div class="inner">
 				<!--
@@ -77,7 +75,7 @@ nav-menu: true
 				</header>
 				-->
 				<p>Now, as I work towards more sustainable energy production, the emerging technology and regulatory markets along with the continuous learnings from the data boom, keep me on my toes both intellectually and from a regulatory perspective. However, despite my busy work life, I still find time to enjoy <a href="https://austinfoodbloggers.org/best-places-to-eat-in-austin/">Austin's food scene</a>, paddle boarding, decompressing at the gym, and cooking at home.</p>
-				<p>Scroll down below if you'd like to get in touch!</p>
+				<p>Scroll down and fill out the form below if you'd like to get in touch!</p>
 				<!--
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -86,7 +84,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	-->
 </section>
 
 <!-- Three -->
