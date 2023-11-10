@@ -32,7 +32,7 @@ nav-menu: true
 				<header class="major">
 					<h3>My Biography</h3>
 				</header>
-				<p>My name is Kyle Dawson. I currently work at <a href="https://seekops.com/">SeekOps Inc.</a> in Austin, TX. Before that, I received my PhD in Atmospheric Science from <a href="https://meas.sciences.ncsu.edu/">North Carolina State University</a> in Raleigh, NC. I am passionate about our environment and take seriously our responsibility for maintaining our <i>generally</i> comfortable surroundings. I'm lucky to work at SeekOps where I can play a pivotal role at the intersection of information as data and environmental stewardship.</p>
+				<p>My name is Kyle Dawson. I currently work at <a href="https://seekops.com/">SeekOps Inc.</a> in Austin, TX. In my role, I mainly help to improve and create algorithms/models for monitoring and quantifying methane and other greenhouse gas emissions. Before that, I received my PhD in Atmospheric Science from <a href="https://meas.sciences.ncsu.edu/">North Carolina State University</a> in Raleigh, NC. I am passionate about our environment and take seriously our responsibility for maintaining our <i>generally</i> comfortable surroundings. I'm lucky to work at SeekOps where I can play a pivotal role at the intersection of information as data and environmental stewardship.</p>
 				<p>P.S. That's my partner and I at <a href="https://austincitylimits.com/">ACL</a> </p>
 				<!--
 				<ul class="actions">
