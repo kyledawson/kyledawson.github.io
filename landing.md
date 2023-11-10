@@ -69,7 +69,6 @@ nav-menu: true
 		-->
 		<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		<!--</a>-->
-		-->
 		<div class="content">
 			<div class="inner">
 				<!--
