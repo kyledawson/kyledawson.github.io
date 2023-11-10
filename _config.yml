@@ -41,4 +41,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md
 
-destination: ./build/site
+destination: ./site
