@@ -13,7 +13,7 @@ country: United States of America
 phone: +1 (512) 649-8332
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 2
 
 # social settings (key must match name of font awesome icon)
