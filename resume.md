@@ -22,6 +22,10 @@ show_tile: true
 		bibliography is on my <a href="https://orcid.org/0000-0003-3175-0456">ORCID</a>
 		and <a href="https://scholar.google.com/citations?hl=en&user=0XG_Ut8AAAAJ">Google Scholar</a>.</p>
 
+		<ul class="actions">
+			<li><a href="https://github.com/kyledawson/resume/raw/main/src/main.pdf" class="button primary icon solid fa-download" target="_blank" rel="noopener noreferrer">Download PDF résumé</a></li>
+		</ul>
+
 <h2>Experience</h2>
 
 <h3>Lead Data Scientist, Geospatial Intelligence — CenterPoint Energy</h3>
